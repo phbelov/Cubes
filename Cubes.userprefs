@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BotSpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BotSpawner.cs" Line="18" Column="3" />
+      <File FileName="Assets/Scripts/BotController.cs" Line="48" Column="7" />
+      <File FileName="Assets/Scripts/CharacterController.cs" Line="48" Column="34" />
+      <File FileName="Assets/Scripts/BotBulletController.cs" Line="7" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
